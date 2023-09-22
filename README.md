@@ -26,7 +26,7 @@ Com o projeto finalizado, será obtido um site chamado "Mochila de viagem" e pos
 </p>
 
 ## Exemplo de Funcionamento da Aplicação
-Link do projeto: #
+Link do projeto: https://arlindomessias.github.io/JavaScript-MochilaDeViagem/
 ![image](https://github.com/ArlindoMessias/JavaScript-MochilaDeViagem/assets/47644068/6d27a775-c21a-4a95-bbff-ecdbda172480)
 
 ## Pré-requisitos
